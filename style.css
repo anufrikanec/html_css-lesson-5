@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.header {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_heading{
+    width: 510px;
+}
+
+.top_info text {
+    width: 425px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 359px;
+}
+
+.footer_text {
+    width: 495px;
+}
+
+.footer_text h3{
+    width: 340px;
+}
+
+.footer_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+}
